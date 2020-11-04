@@ -1,7 +1,7 @@
 [package]
 name = "once-cell-regex"
-version = "0.1.1"
-authors = ["Francesca Plebani <francesca@brainiumstudios.com>"]
+version = "0.2.0"
+authors = ["Francesca Lovebloom <francesca@brainiumstudios.com>"]
 edition = "2018"
 description = "This crate just gives you the `regex` macro from the `once_cell` docs."
 documentation = "https://docs.rs/once-cell-regex"
@@ -18,5 +18,5 @@ std = ["once_cell/std", "regex/std"]
 unicode = ["regex/unicode"]
 
 [dependencies]
-once_cell = { version = "1.3.1", default-features = false }
-regex = { version = "1.3.4", default-features = false }
+once_cell = { version = "1.4.1", default-features = false }
+regex = { version = "1.4.2", default-features = false }
