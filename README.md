@@ -11,7 +11,7 @@ https://docs.rs/once_cell/1.2.0/once_cell/index.html#building-block
 
 I also threw in a `regex_multi_line` macro, since it's a nice thing to have.
 
-Example:
+## Example
 
 ```rust
 use once_cell_regex::regex;
