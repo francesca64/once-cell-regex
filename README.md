@@ -1,7 +1,7 @@
 # once-cell-regex
 
-[![crates.io badge](http://meritbadge.herokuapp.com/once-cell-regex)](https://crates.io/crates/once-cell-regex)
-[![docs.rs badge](https://docs.rs/once-cell-regex/badge.svg)](https://docs.rs/once-cell-regex)
+[![crates.io badge](https://img.shields.io/crates/v/once-cell-regex.svg)](https://crates.io/crates/once-cell-regex)
+[![Docs.rs badge](https://docs.rs/once-cell-regex/badge.svg)](https://docs.rs/once-cell-regex)
 [![Travis badge](https://travis-ci.org/francesca64/once-cell-regex.svg?branch=mistress)](https://travis-ci.org/francesca64/once-cell-regex)
 
 Wow! Super exciting crate! Amazing! 💯💯💯
