@@ -10,3 +10,15 @@ This crate just gives you the `regex` macro from the `once_cell` docs:
 https://docs.rs/once_cell/1.2.0/once_cell/index.html#building-block
 
 I also threw in a `regex_multi_line` macro, since it's a nice thing to have.
+
+## Example
+
+```rust
+use once_cell_regex::regex;
+
+fn main() {
+    let r = regex!("hello");
+    let x = r.is_match("hello world");
+    println!("{}", x); // prints "true"
+}
+```
