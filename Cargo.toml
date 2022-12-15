@@ -8,7 +8,7 @@ documentation = "https://docs.rs/once-cell-regex"
 repository = "https://github.com/francesca64/once-cell-regex"
 readme = "README.md"
 keywords = ["lazy", "regex", "static"]
-license = "Apache-2.0/MIT"
+license = "MIT OR Apache-2.0"
 
 [features]
 default = ["perf", "std", "unicode"]
